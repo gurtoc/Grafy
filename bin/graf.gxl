@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gxl xmlns:xlink="http://www.w3.org/1999/xlink">
+<graph edgeids="false">
+<node id="P1">
+<intX>7</intX>
+<intY>-33</intY>
+</node>
+<node id="1">
+<intX>-64</intX>
+<intY>-63</intY>
+</node>
+<node id="2">
+<intX>-61</intX>
+<intY>-131</intY>
+</node>
+<node id="3">
+<intX>36</intX>
+<intY>165</intY>
+</node>
+<node id="4">
+<intX>-87</intX>
+<intY>-122</intY>
+</node>
+<node id="5">
+<intX>6</intX>
+<intY>43</intY>
+</node>
+<node id="6">
+<intX>-170</intX>
+<intY>-51</intY>
+</node>
+<node id="7">
+<intX>-27</intX>
+<intY>-187</intY>
+</node>
+<node id="8">
+<intX>139</intX>
+<intY>-23</intY>
+</node>
+<node id="9">
+<intX>-140</intX>
+<intY>-114</intY>
+</node>
+<edge from="5" to="P1"/>
+<edge from="5" to="P1"/>
+<edge from="4" to="1"/>
+<edge from="4" to="1"/>
+<edge from="P1" to="1"/>
+<edge from="7" to="2"/>
+<edge from="7" to="2"/>
+<edge from="1" to="2"/>
+<edge from="9" to="4"/>
+<edge from="2" to="4"/>
+<edge from="2" to="4"/>
+<edge from="P1" to="5"/>
+<edge from="9" to="6"/>
+<edge from="2" to="7"/>
+<edge from="6" to="9"/>
+<edge from="6" to="9"/>
+</graph>
+</gxl>
